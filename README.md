@@ -15,7 +15,7 @@
 I'm a software engineer specializing in **distributed systems**, **cloud computing**, and **full-stack development**. With hands-on experience across multiple internships, I've built scalable systems, optimized data pipelines, and shipped real products.
  
 - 🎓 Recently graduated with my **Master's in Computer Science** from UIC
-- 💼 Previous experience at **Drishti Software Solutions**, **Mobileware Technologies**, and **Cloverground**
+- 💼 Previous experience at **Drishti Software Solutions**, **Mobileware Technologies**, and **Cleverground**
 - 🌱 Currently building in the AI/LLM and B2B SaaS space
 - 🏋️ Outside of coding, I enjoy **working out**, **sports** (Soccer, Squash, Basketball), and keeping up with **finance**
 ---
