@@ -1,7 +1,7 @@
 # Hi there, I'm Abhishek Walvekar 👋
  
 🎓 **MS in Computer Science** from University of Illinois Chicago (GPA: 3.72/4.00)  
-💻 **Software Engineer** passionate about distributed systems, full-stack development, and data engineering  
+💻 **Software Engineer** passionate about distributed systems, full-stack development, and AI Integration.
 📍 Based in Chicago, IL
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-walvekar)
