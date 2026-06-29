@@ -76,7 +76,7 @@ I'm a software engineer specializing in **distributed systems**, **cloud computi
 ## 🔥 Featured Projects
  
 ### 💸 Zelyx — AI API Cost Enforcement Layer
-**Tech Stack:** Go, Kafka, Kubernetes, AWS, React
+**Tech Stack:** Python, Next.js, Redis, Docker
  
 B2B SaaS proxy layer that sits between engineering teams and AI API providers, enforcing budget policies, rate limits, and spend visibility in real time. Built for platform and ML teams that need cost governance without changing their existing API call patterns.
  
